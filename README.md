@@ -3,4 +3,4 @@
 
 - 💬 Ask me about **React.js, Next.js, Node.js and AWS services**
 
-- Read more about me from [here](https://flowcv.me/raj-gohel).
+- Read more about me from [here](https://flowcv.me/raj-gohel)
