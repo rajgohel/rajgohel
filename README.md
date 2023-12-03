@@ -5,9 +5,12 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 💬 Ask me about **React.js, Next.js, Node.js and AWS services**
-
-- Read more about me from [here](https://flowcv.me/raj-gohel)
+- 💻 I'm a frontend developer with experience in Next.js, React.js, Node.js, TypeScript, GraphQL, MongoDB, and SQL.
+- 🚀 I've worked on creating and designing fresh user-facing features before. Create libraries and reusable code for later usage. Optimize the program to run as quickly and as scalable as possible. Work together with stakeholders and other team members.
+- ☁️ I am proficient in AWS services and have experience managing and deploying apps in a scalable and effective way using a variety of tools, including EC2, S3, and load balancers.
+- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
+- I'm also a Competitive Programming lover; check out my profile and badges on different websites.
+- LeetCode: https://leetcode.com/rajgohel/
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -62,3 +65,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
+
+<h3 align="left">📫 How to reach me</h3>
+
+###
+  - Email: rajgohel855@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/raj-gohel-a2331012a
+  - Portfolio website: https://rajgohel-portfolio.vercel.app
