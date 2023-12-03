@@ -71,4 +71,4 @@
 ###
   - Email: rajgohel855@gmail.com
   - LinkedIn: https://www.linkedin.com/in/raj-gohel-a2331012a
-  - Portfolio website: https://rajgohel-portfolio.vercel.app
+  - Portfolio website: https://rajgohel.github.io
