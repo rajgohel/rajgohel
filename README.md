@@ -11,6 +11,7 @@
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
 - I'm also a Competitive Programming lover; check out my profile and badges on different websites.
 - LeetCode: https://leetcode.com/rajgohel/
+- Hackerrank: https://www.hackerrank.com/profile/rajgohel0001
 
 <h3 align="left">🛠 Language and tools</h3>
 
