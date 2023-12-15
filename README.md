@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raj</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 💻 I'm a frontend developer with experience in Next.js, React.js, Node.js, TypeScript, GraphQL, MongoDB, and SQL.
-- 🚀 I've worked on creating and designing fresh user-facing features before. Create libraries and reusable code for later usage. Optimize the program to run as quickly and as scalable as possible. Work together with stakeholders and other team members.
-- ☁️ I am proficient in AWS services and have experience managing and deploying apps in a scalable and effective way using a variety of tools, including EC2, S3, and load balancers.
-- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends in the industry.
-- I'm also a Competitive Programming lover; check out my profile and badges on different websites.
+- 💻 Fullstack Developer with expertise in Next.js, React.js, Node.js, TypeScript, GraphQL, MongoDB, and SQL.
+- 🚀 Accomplished in crafting and designing user-facing features, creating libraries with reusable code, and optimizing programs for speed and scalability. Collaborative approach with stakeholders and team members.
+- ☁️ Proficient in AWS services, specializing in the effective management and deployment of scalable applications using tools such as EC2, S3, and load balancers.
+- 🌱 Committed to continuous learning, I stay abreast of the latest industry trends by exploring and adopting new technologies.
+- 🧑‍💻 Passionate about Competitive Programming. Explore my achievements and badges:
 - LeetCode: https://leetcode.com/rajgohel/
 - Hackerrank: https://www.hackerrank.com/profile/rajgohel0001
 
